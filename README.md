@@ -15,9 +15,6 @@ Interests: Deep Learning, Backend Development, Big Data and HPC.
 ![](https://github-readme-streak-stats.herokuapp.com/?user=satyam-kr03&theme=transparent&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=satyam-kr03&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=satyam-kr03&limit=5&theme=transparent&combine_all_yearly_contributions=true)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=satyam-kr03&icon=0&color=13)](https://visitcount.itsvg.in)
 
