@@ -1,6 +1,6 @@
 # About Me:
 Pre-final year CSE UG at IIT Mandi. 
-Informatics Exchange Student at TUM.
+Exchange Student at TUM-Informatics.
 
 Interests: Deep Learning, Backend Development, Big Data and HPC.
 
